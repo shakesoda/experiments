@@ -6,9 +6,9 @@ int cpu_init()
 	r.pc = 0x0100;
 	r.sp = 0xFFFE;
 
-	r.bc = (word*)r.b;
-	r.de = (word*)r.d;
-	r.hl = (word*)r.h;
+	r.bc = (word*)&r.b;
+	r.de = (word*)&r.d;
+	r.hl = (word*)&r.h;
 
 	return 0;
 }
