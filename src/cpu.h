@@ -3,7 +3,8 @@
 typedef uint8_t byte;
 typedef uint16_t word;
 
-struct {
+struct
+{
 	/*
 	 * (adapted from the GB CPU manual)
 	 * /-------\
@@ -49,7 +50,13 @@ struct {
 } r;
 
 /* yes, f-zero */
-typedef enum { F_ZERO = 7, F_SUB = 6, F_HALFCARRY = 5, F_CARRY = 4 } FLAG;
+typedef enum
+{
+	F_ZERO = 7,
+	F_SUB = 6,
+	F_HALFCARRY = 5,
+	F_CARRY = 4
+} FLAG;
 
 int cpu_init();
 
