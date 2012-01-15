@@ -1,5 +1,6 @@
 #include <stdio.h>
 #include "cpu.h"
+#include "mmu.h"
 
 int cpu_init()
 {
@@ -26,7 +27,7 @@ void check_flag(FLAG flag)
 
 	printf("bit %d = %d\n", flag, b);
 
-	// do stuff with b!
+	/* do stuff with b! */
 }
 
 void set_bit(byte *val, int idx)
@@ -39,6 +40,7 @@ void clear_bit(byte *val, int idx)
 	*val &= ~(1 << idx);
 }
 
+#ifndef USING_MAKEFILE
 int main()
 {
 	cpu_init();
@@ -54,3 +56,16 @@ int main()
 
 	return 0;
 }
+#else
+int main()
+{
+	cpu_init();
+	mmu_init();
+	
+	/* todo */
+	
+	mmu_deinit();
+	
+	return 0;
+}
+#endif

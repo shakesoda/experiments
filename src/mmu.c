@@ -49,6 +49,7 @@ void mmu_deinit()
 	free(mmu.ram);
 }
 
+#ifndef USING_MAKEFILE
 int main()
 {
 	mmu_init();
@@ -58,3 +59,4 @@ int main()
 	
 	return 0;
 }
+#endif
