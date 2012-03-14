@@ -21,13 +21,15 @@ byte get_bit(byte n, byte k)
 }
 */
 
-void check_flag(FLAG flag)
+byte check_flag(FLAG flag)
 {
-	byte b = (r.f & ( 1 << flag )) >> flag;
+	return (r.f & ( 1 << flag )) >> flag;
+}
 
+void print_flag(FLAG flag)
+{
+	byte b = check_flag(flag);
 	printf("bit %d = %d\n", flag, b);
-
-	/* do stuff with b! */
 }
 
 void set_bit(byte *val, int idx)
@@ -62,6 +64,9 @@ int main()
 	cpu_init();
 	mmu_init();
 	
+	set_bit(&r.f, F_ZERO);
+	print_flag(F_ZERO);
+
 	/* todo */
 	
 	mmu_deinit();

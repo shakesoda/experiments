@@ -60,4 +60,7 @@ typedef enum
 
 int cpu_init();
 
-void check_flag(FLAG flag);
+byte check_flag(FLAG flag);
+
+/* debug */
+void print_flag();
