@@ -1,0 +1,59 @@
+<!DOCTYPE HTML>
+<html lang="en-US">
+<head>
+	<meta charset="UTF-8" />
+
+	<title>Wavy thing.</title>
+
+	<link rel="stylesheet" href="/css/reset.css" />
+	<link rel="stylesheet" href="/css/style.css" />
+
+	<!-- add css classes to work around some quirks. webkit = bork -->
+	<script type="text/javascript" src="/js/browser-selector.js"></script>
+	<script type="text/javascript" src="/js/jquery-1.5.2.min.js"></script>
+	<script type="text/javascript" src="/js/jquery-ui-1.8.11.custom.min.js"></script>
+	<script type="text/javascript" src="/js/jquery.animate-shadow-min.js"></script>
+	<script type="text/javascript" src="/js/jquery.cookie.js"></script>
+	<script type="text/javascript" src="/js/ssorg.js"></script>
+</head>
+<body>
+	<div id="header">
+		<div id="colors">
+			<% @colors = [ "#fc0", "#aca", "#3b7", "#388", "#66a", "#b34" ] %>
+			<% @colors.each do |color| %>
+			<a href="#" class="color-change" style="background: <%= color %>" title="<%= color %>"></a>
+			<% end %>
+		</div>
+		<canvas id="wave"></canvas>
+	</div>
+	<div id="container">
+		<% if @title %><h1 id="title"><%= @title %></h1><% end %>
+		<div id="posts">
+		<% @posts.each do |post| %>
+			<div class="post">
+				<p class="info"><a href="/posts/<%= post.id %>">#<%= post.id %></a> <%= Time.at(post.created_at) %></p>
+				<p><%= post.content %></p>
+			</div>
+		<% end %>
+		</div>
+		<% if @needs_back %>
+		<a href="/">&laquo; Back</a>
+		<% else %>
+		<h2>New Post</h2>
+		<form method="post" action="/post/new">
+			<fieldset class="post-box">
+				<div id="alert" style="display: none">
+					<p>You must enter a post before submitting!</p>
+				</div>
+				<textarea name="post_content" class="post-content"></textarea>
+				<div class="clear"></div>
+				<button class="left-button">Preview</button><button class="right-button">Post Reply</button>
+			</fieldset>
+		</form>
+		<% end %>
+		<div id="footer">
+			<p>Design &copy; 2011 Colby Klein. <a rel="license" href="http://creativecommons.org/licenses/by-sa/3.0/">Some Rights Reserved</a>. Greetings, traveler!</p>
+		</div>
+	</div>
+</body>
+</html>

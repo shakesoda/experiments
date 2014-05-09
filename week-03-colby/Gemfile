@@ -1,0 +1,6 @@
+source :rubygems
+
+gem 'sqlite3'
+gem 'sinatra'
+gem 'sass'
+gem 'guard'

@@ -1,0 +1,7 @@
+desc "Starting Sinatra Server."
+
+task :default => :run
+
+task :run do
+  system "bundle exec ruby lib/main.rb"
+end

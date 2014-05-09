@@ -1,0 +1,4 @@
+source :rubygems
+
+gem 'ruby-prof'
+gem 'rmagick'
