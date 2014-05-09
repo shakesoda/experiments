@@ -1,0 +1,8 @@
+*.a
+*.so
+obj
+bin
+*.make
+Makefile
+lib/glfw/src/config.h
+.directory
