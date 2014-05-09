@@ -1,0 +1,6992 @@
+
+material mat_1512374662
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1512374661.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_950989259
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 950989258.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_648523902
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648523901.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_652931609
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 652931608.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_652931610
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161411.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_679331968
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 679331967.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_679331969
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 666780852.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_679331970
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607045166.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_679331971
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172602.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_2022806_mat_1512374662
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1512374661.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1512374663
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 654736459.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1512374664
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1280340266.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1512374665
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1237068601.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1512374666
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1280340269.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1512374667
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1280340264.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1512374668
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1280340302.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152161
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152160.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_801527808
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 801527807.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_1912666_mat_950989259
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 950989258.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_950989260
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 611425516.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152113
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152114
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607151918.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152115
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607045166.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_1884744_mat_801527808
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 801527807.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_801527809
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 614588309.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_801527811
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 801527809.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1535600011
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1535600010.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1535600012
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607045200.png
+			}
+		}
+
+	}
+
+}
+
+
+material mat_607152157
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152156.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152158
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152159
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607151918.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_1656152_mat_607152160
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607045166.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_1656152_mat_607152161
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607045202.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_614585954
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 614585953.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_614585955
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607045168.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_614585956
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607045200.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_1656152_mat_679331968
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 679331967.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292108
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1293292107.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292109
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292110
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 653300858.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292111
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161663.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292112
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161411.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292113
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161600.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292114
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 614588309.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292115
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 801527807.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292116
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 801529165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292117
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161169.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292118
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 606243762.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292119
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292120
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 611425516.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292121
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 635999015.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1293292122
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_635999016
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 635999015.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_635999017
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_635999018
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172703.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_635999019
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172701.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_635999020
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_635999021
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172618.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607172702
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172701.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607161620
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_712030_mat_607172702
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172701.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_712030_mat_607172703
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172608.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607172705
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172703.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_712030_mat_635999016
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 635999015.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_801167310
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 801167309.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_801167311
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 680619560.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_801167312
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 687844313.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_801167313
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161663.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_801167314
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 653300858.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_712030_mat_1293292108
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1293292107.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_712030_mat_1293292109
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_712030_mat_1293292110
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152061.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_712030_mat_1293292111
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152100.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_712030_mat_1293292112
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 593688517.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_712030_mat_1293292113
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172618.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_712030_mat_1293292114
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_712030_mat_1293292115
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648571811.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_706458_mat_607152161
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152160.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152020
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152019.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_701946_mat_607152113
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152120
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152119.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360360
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1539360359.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360361
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161600.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360362
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161411.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360363
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360364
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360365
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161663.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360366
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360367
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152163.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360368
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360369
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152054.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360370
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152100.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360371
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 654736459.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360372
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152019.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360373
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360374
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 734971154.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360375
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648571811.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360376
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152061.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360377
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152156.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360378
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360379
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 593688517.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360380
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152119.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360381
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 653300858.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360382
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 646201751.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360383
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172608.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360384
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 687844313.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360385
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1379450203.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1539360386
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 635999015.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607151919
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607151918.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_252328_mat_607152161
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152160.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152164
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152163.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152166
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607161601
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161600.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607161664
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161663.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607161667
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607161668
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607151918.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607161669
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360360
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1539360359.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360361
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360362
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648571811.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360363
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161411.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360364
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152061.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360365
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152100.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360366
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360367
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 654736459.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360368
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1280340302.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360369
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1280340264.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360370
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360371
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172618.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360372
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172703.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360373
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172701.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360374
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172608.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_8340_mat_1539360375
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 635999015.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_5192_mat_607152161
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152160.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_1932_mat_607152020
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152019.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_1932_mat_607152113
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_01_1932_mat_607152120
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152119.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_607152166
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_607152167
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152163.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_607161620
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607161621
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161600.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_607161664
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161663.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607161665
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152156.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_607161667
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360360
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1539360359.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360361
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360362
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152019.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360364
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360365
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360366
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 679331967.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360367
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161411.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360368
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161169.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360369
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152068.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360370
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 706445154.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360371
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 687844313.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360372
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648571811.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360373
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152119.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360374
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152061.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360375
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152100.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360376
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 635999015.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360377
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1379450203.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1993590_mat_1539360378
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 654736459.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607172609
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172608.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607172610
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1940218_mat_607172704
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172703.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1940218_mat_607172705
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172701.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1940218_mat_635999016
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 635999015.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1930512_mat_607151919
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607151918.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1930512_mat_607152120
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152119.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152121
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152122
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152019.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607152123
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 593688308.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1922752_mat_607152161
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152160.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_607152164
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152163.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_607152166
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_607161601
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161600.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_607161664
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161663.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_607161667
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_607161668
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607151918.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_607161669
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360360
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1539360359.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360361
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360362
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648571811.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360363
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161411.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360364
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152061.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360365
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152100.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360366
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360367
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152119.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360368
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152156.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360369
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 706445154.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360370
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 654736459.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360371
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152019.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360372
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360373
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 593688308.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360374
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648523901.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360375
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161169.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360376
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152068.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360377
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 593688517.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360378
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1293292107.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360379
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 801167309.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360380
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 635999015.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1478558_mat_1539360381
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 636824706.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1475834_mat_607152120
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152119.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1474290_mat_607152161
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152160.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360360
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1539360359.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360361
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161600.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360362
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161411.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360363
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360364
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360365
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161663.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360366
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360367
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152163.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360368
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360369
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152054.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360370
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152100.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360371
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648571811.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360372
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152119.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360373
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152156.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360374
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 636824706.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360375
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172701.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360376
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 679331967.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360377
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360378
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 593688517.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360379
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 706445154.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360380
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152061.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360381
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 654736459.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1221242_mat_1539360382
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 635999015.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1217576_mat_607151919
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607151918.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1217576_mat_607152113
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1214768_mat_607152161
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152160.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_653300859
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 653300858.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_653300860
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 646201751.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_653300861
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152100.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_653300862
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161663.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_653300863
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648571811.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_654736460
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 654736459.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_654736461
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152163.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_654736462
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_654736463
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161600.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_654736464
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_654736465
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607151918.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_654736466
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1057904_mat_1539360360
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1539360359.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1057904_mat_1539360361
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1057904_mat_1539360362
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161411.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1057904_mat_1539360363
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1057004_mat_607152161
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152160.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_1055800_mat_607152113
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619561
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 680619560.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619562
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 593688517.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619563
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161600.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619564
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161663.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619565
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648571811.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619566
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619567
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152061.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619568
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152100.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619569
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619570
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152163.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619571
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619572
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619573
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_680619574
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161411.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_819280_mat_1539360360
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1539360359.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_819280_mat_1539360361
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161169.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_819280_mat_1539360362
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152068.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_819280_mat_1539360363
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 636824706.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_819280_mat_1539360364
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172701.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_819280_mat_1539360365
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 635999015.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_796932166
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 796932165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_796932167
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152019.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_796932168
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_796932169
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 593688308.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_796932170
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607151918.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_806860_mat_607152161
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152160.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_806860_mat_796932166
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 796932165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_654736460
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 654736459.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360360
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1539360359.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360361
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161600.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360362
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161411.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360363
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360364
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360365
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161663.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360366
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360367
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152163.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360368
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360369
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152054.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360370
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152100.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360371
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 796932165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360372
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152019.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360373
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360374
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 593688308.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360375
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360376
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648523901.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360377
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161169.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360378
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607151918.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360379
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648571811.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_536506_mat_1539360380
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152061.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_526488_mat_607152120
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152119.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_526488_mat_607152121
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607151918.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_526488_mat_607152122
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_526488_mat_607152123
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 593688308.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_520332_mat_607152161
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152160.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607161168
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360360
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1539360359.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360361
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648571811.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360362
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152165.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360363
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152163.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360364
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161619.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360365
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161600.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360366
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161411.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360367
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161663.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360368
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152119.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360369
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152156.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360370
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161666.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360371
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607151918.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360372
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152112.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360373
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 654736459.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360374
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607161169.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360375
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152068.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360376
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 593688308.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360377
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152019.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360378
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607152167.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360379
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 648523901.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360380
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172608.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material Stg10_00_170756_mat_1539360381
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1379450203.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607172603
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172602.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_607172605
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 607172604.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_663181913_XSIPOLYCLS_mat_663181914
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.814633 0.814633 0.814633 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 663181913.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1198491257_XSIPOLYCLS_mat_1198491258
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 1198491257.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_1132095162_XSIPOLYCLS_mat_1132095163
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.56
+
+			texture_unit
+			{
+				texture 1132095162.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_658711111_XSIPOLYCLS_mat_658711112
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.6368
+
+			texture_unit
+			{
+				texture 658711111.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_917260913_XSIPOLYCLS_mat_917260914
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 0 0 0 1 2.56
+
+			texture_unit
+			{
+				texture 917260913.png
+			}
+		}
+
+	}
+
+}
+
+
+
+material mat_663181950_XSIPOLYCLS_mat_663181951
+{
+	technique
+	{
+		pass
+		{
+			ambient 0.9 0.9 0.8 1
+			specular 1 1 1 1 2.6368
+
+			texture_unit
+			{
+				texture 663181950.png
+			}
+		}
+
+	}
+
+}
+
+

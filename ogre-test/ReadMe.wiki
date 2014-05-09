@@ -1,0 +1,10 @@
+Ogre3D tests.
+
+=== Compiling ===
+This project only builds with Xcode currently, you'll need the Ogre 1.7.x and
+NVidia Cg SDKs. The code should be fine on Windows and Linux too, it just
+needs makefiles.
+
+=== Licenses ===
+Everything in src/ is MIT licensed. Things in media/ are CC-NC. Anything under
+a different license will be noted.

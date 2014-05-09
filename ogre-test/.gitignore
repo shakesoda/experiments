@@ -1,0 +1,10 @@
+.DS_Store
+projects/Xcode/build/*
+*.blend1
+*.blend2
+*.mode2v3
+*.pbxuser
+*.mode1v3
+*.perspectivev3
+xcuserdata
+*.xcworkspace
