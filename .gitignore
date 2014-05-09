@@ -9,7 +9,7 @@ Makefile
 *.o
 *.a
 *.so
-emu-gb
+bin
 
 # Joe files
 DEADJOE

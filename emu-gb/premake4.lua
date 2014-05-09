@@ -3,6 +3,7 @@ configurations { "Debug" }
 
 project "EmuGB"
 	targetname "emu-gb"
+	targetdir "bin"
 	kind "ConsoleApp"
 	language "C"
 	files { "src/**.c" }
